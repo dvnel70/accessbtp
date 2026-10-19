@@ -1,0 +1,6 @@
+{
+  "name": "LogiSoft - Vente de Logiciels & Assistance",
+  "description": "Plateforme moderne de vente de logiciels informatiques, guides pas à pas, livraison sécurisée Google Drive et paiement en ligne Wave.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
